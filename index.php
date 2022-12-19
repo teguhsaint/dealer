@@ -51,16 +51,16 @@
     </div>
 
 
-    <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+    <div id="carouselExampleControls" class="carousel slide " data-bs-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="img/download.jpg" class="d-block w-100 " alt="...">
+                <img src="https://hargatoyotapontianak.com/wp-content/uploads/2018/11/toyota-yaris.jpg" class="d-block w-100 " style="height: 450px;" alt="...">
             </div>
             <div class="carousel-item">
-                <img src="img/rush-1.jpg" class="d-block w-100 " alt="...">
+                <img src="https://hargatoyotapontianak.com/wp-content/uploads/2018/11/TOYOTA-SIENTA-1.jpg" class="d-block w-100 " style="height: 450px;" alt="...">
             </div>
             <div class="carousel-item">
-                <img src="img/avanza-1.jpg" class="d-block w-100 " alt="...">
+                <img src="https://hargatoyotapontianak.com/wp-content/uploads/2018/11/rush-1.jpg" class="d-block w-100 " style="height: 450px;" alt="...">
             </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
@@ -71,6 +71,11 @@
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Next</span>
         </button>
+    </div>
+
+    <div class="container">
+        <img src="https://hargatoyotapontianak.com/wp-content/uploads/2018/11/Auto2000-e1502103451727.png" class="rounded mx-auto d-block" style="width: 500px" alt="">
+
     </div>
 
 
