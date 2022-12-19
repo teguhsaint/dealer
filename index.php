@@ -73,8 +73,35 @@
         </button>
     </div>
 
-    <div class="container">
+    <div class="container" style="text-align: center;">
         <img src="https://hargatoyotapontianak.com/wp-content/uploads/2018/11/Auto2000-e1502103451727.png" class="rounded mx-auto d-block" style="width: 500px" alt="">
+        <p><b> Selamat datang di Auto 2000 Pontianak, yang merupakan Sales Senior Authorized Dealer Mobil Toyota Indonesia Area Kalimantan Barat. <br> Siap layani pembelian seluruh Type Toyota Cash maupun Kredit.<b></p>
+        <strong style="color: red;">saya berikan promo khusus untuk anda:</strong>
+       <br>
+        <center> <br>
+            <p>Cash Back Up To 20%</p>
+
+
+            <p>Free Aksesoris</p>
+
+
+            <p>Diskon Besar</p>
+
+
+            <p>Data Dibantu ACC Sampai Selesai</p>
+
+
+            <p>Proses Cepat</p>
+        </center>
+
+
+    </div>
+
+    <div class="grid-12">
+        <div class="vtr-title">
+            <h3>Mobil Terbaru</h3>
+
+        </div>
 
     </div>
 
