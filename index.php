@@ -73,12 +73,11 @@
         </button>
     </div>
 
-    <div class="container">
+    <div class="container" style="text-align: center;">
         <img src="https://hargatoyotapontianak.com/wp-content/uploads/2018/11/Auto2000-e1502103451727.png" class="rounded mx-auto d-block" style="width: 500px" alt="">
-<<<<<<< HEAD
         <p><b> Selamat datang di Auto 2000 Pontianak, yang merupakan Sales Senior Authorized Dealer Mobil Toyota Indonesia Area Kalimantan Barat. <br> Siap layani pembelian seluruh Type Toyota Cash maupun Kredit.<b></p>
         <strong style="color: red;">saya berikan promo khusus untuk anda:</strong>
-        <br>
+       <br>
         <center> <br>
             <p>Cash Back Up To 20%</p>
 
@@ -100,95 +99,9 @@
 
     <div class="grid-12">
         <div class="vtr-title">
-            <h3 style="color: red;" class="h4 pb-2 mb-4 text-danger border-bottom border-danger">Mobil Terbaru</h3>
-        </div>
-        <div class=" grid-4 grid-m-6">
-            <div class="row row-cols-1 row-cols-md-4 g-2">
-                <div class="col">
-                    <div class="card h-50">
-                        <img src="https://hargatoyotapontianak.com/wp-content/uploads/2018/11/490-683x400.jpg" class="card-img-top" alt="...">
-                        <div class="card-body bg-light">
-                            <h5 class="card-title "><b>Toyota Hilux</b> </h5>
-                            <br>
-                            <a href="https://hargatoyotapontianak.com/mobil/toyota-hilux/" class="btn btn-primary">detail</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="card h-50">
-                        <img src="https://hargatoyotapontianak.com/wp-content/uploads/2018/11/HToyota-CHR-683x400-683x400.jpg" class="card-img-top" alt="...">
-                        <div class="card-body bg-light">
-                            <h5 class="card-title "><b>Toyota CHR</b> </h5>
-                            <br>
-                            <a href="https://hargatoyotapontianak.com/mobil/toyota-chr/" class="btn btn-primary">detail</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="card h-50">
-                        <img src="https://hargatoyotapontianak.com/wp-content/uploads/2018/11/alphard-683x400-683x400.jpg" class="card-img-top" alt="...">
-                        <div class="card-body bg-light">
-                            <h5 class="card-title "><b>Toyota Alphard</b> </h5>
-                            <br>
-                            <a href="https://hargatoyotapontianak.com/mobil/toyota-alphard/" class="btn btn-primary">detail</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="card h-50">
-                        <img src="https://hargatoyotapontianak.com/wp-content/uploads/2018/11/Toyota-Vellfire-683x400-683x400.jpg" class="card-img-top" alt="...">
-                        <div class="card-body bg-light">
-                            <h5 class="card-title "><b>Toyota Vellfire</b> </h5>
-                            <br>
-                            <a href="https://hargatoyotapontianak.com/mobil/toyota-Vellfire/" class="btn btn-primary">detail</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="card h-50">
-                        <img src="https://hargatoyotapontianak.com/wp-content/uploads/2018/11/fortuner-683x400.jpg" class="card-img-top" alt="...">
-                        <div class="card-body bg-light">
-                            <h5 class="card-title "><b>Toyota Fortuner</b> </h5>
-                            <br>
-                            <a href="https://hargatoyotapontianak.com/mobil/toyota-fortuner/" class="btn btn-primary">detail</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="card h-50">
-                        <img src="https://hargatoyotapontianak.com/wp-content/uploads/2018/11/rush-683x400.jpg" class="card-img-top" alt="...">
-                        <div class="card-body bg-light">
-                            <h5 class="card-title "><b>Toyota Rush</b> </h5>
-                            <br>
-                            <a href="https://hargatoyotapontianak.com/mobil/toyota-Rush/" class="btn btn-primary">detail</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="card h-50">
-                        <img src="https://hargatoyotapontianak.com/wp-content/uploads/2018/11/TOYOTA-SIENTA-1-1-683x400.jpg" class="card-img-top" alt="...">
-                        <div class="card-body bg-light">
-                            <h5 class="card-title "><b>Toyota Sienta</b> </h5>
-                            <br>
-                            <a href="https://hargatoyotapontianak.com/mobil/toyota-sienta/" class="btn btn-primary">detail</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="card h-50">
-                        <img src="https://hargatoyotapontianak.com/wp-content/uploads/2018/11/Toyota-Kijang-Innova-683x400-683x400.jpg" class="card-img-top" alt="...">
-                        <div class="card-body bg-light">
-                            <h5 class="card-title "><b>Toyota Kijang Inova</b> </h5>
-                            <br>
-                            <a href="https://hargatoyotapontianak.com/mobil/toyota-Kijang-Innova/" class="btn btn-primary">detail</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <h3>Mobil Terbaru</h3>
 
         </div>
-=======
->>>>>>> parent of 9a94e5e (tahap1)
 
     </div>
 
