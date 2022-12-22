@@ -29,19 +29,19 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a class="nav-link active text-light" aria-current="page" href="#">Home</a>
+                            <a class="nav-link active text-light" aria-current="page" href="index.php">Home</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-light" href="daftarharga.php">daftar harga</a>
                         </li>
                         <li class="nav-item ">
-                            <a class="nav-link text-light" href="#">
+                            <a class="nav-link text-light" href="kontaksales.php">
                                 kontak sales
                             </a>
 
                         </li>
                         <li class="nav-item ">
-                            <a class="nav-link text-light" href="#">about as</a>
+                            <a class="nav-link text-light" href="aboutas.php">about as</a>
                         </li>
                     </ul>
 
